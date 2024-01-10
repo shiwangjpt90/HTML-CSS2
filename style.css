@@ -1,0 +1,28 @@
+.one{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: red;
+}
+.two{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: yellow;
+}
+.three{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: green;
+}
+div{
+    padding: 20px;
+    margin: 5px;
+    width: 10px;
+    text-align: center;
+    height: 450px;
+    width: 158px;
+    border: 2px;
+    background-color: black;
+}
